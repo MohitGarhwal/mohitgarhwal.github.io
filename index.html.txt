@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mohit Garhwal - Portfolio</title>
+</head>
+<body>
+    <h1>Mohit Garhwal</h1>
+    <p>I am a Final Year CSE Student and Java Developer.</p>
+
+    <h2>About Me</h2>
+    <p>I am Mohit Garhwal, passionate about software development and problem solving.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>HTML, CSS</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <p>Task Management System (Java + MySQL)</p>
+
+    <h2>Contact</h2>
+    <p>Email: your-email@gmail.com</p>
+</body>
+</html>
